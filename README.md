@@ -4,7 +4,7 @@
 ## 📂 Contents
 | File | Description |
 |------|-------------|
-| `Online_Retail_Segmentation_Final.ipynb` | Fully‑commented Jupyter notebook with code, visualizations, and markdown answers |
+| `customer_segmentation_analysis.ipynb` | Fully‑commented Jupyter notebook with code, visualizations, and markdown answers |
 | `Mall_Customers.csv`  | Raw dataset (if permitted) |
 | `README.md` | This file |
 
